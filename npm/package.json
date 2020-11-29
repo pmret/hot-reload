@@ -1,0 +1,9 @@
+{
+    "name": "@pmret/hot-reload",
+    "version": "1.0.0",
+    "description": "hot-reload server implementation for Node.js",
+    "repository": "https://github.com/pmret/hot-reload",
+    "license": "0BSD",
+    "author": "Alex Bates <hi@imalex.xyz>",
+    "main": "hot-reload.js"
+}
